@@ -1,0 +1,34 @@
+.navbar {
+  height: 110px !important;
+  display: flex;
+  align-items: center;
+  padding: 0 30px;
+}
+
+.navbar-logo {
+  height: 85px !important;
+  width: auto;           
+  object-fit: contain;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.footer-text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.main-title {
+  font-size: 2.5rem !important;
+  font-weight: 900 !important;
+  color: #FF8C00;
+  margin-bottom: 5px;
+}
+
+.sub-description {
+  font-size: 1.2rem !important;
+  font-weight: 600;
+  color: #333;
+  letter-spacing: -0.5px;
+}

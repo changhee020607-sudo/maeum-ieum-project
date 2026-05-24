@@ -1,0 +1,150 @@
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535 5.7.1 Username and Password not accepted jtCGj-SlQ0qSL2m3SnmoXw - nsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535 5.7.1 Username and Password not accepted jtCGj-SlQ0qSL2m3SnmoXw - nsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535 5.7.1 Username and Password not accepted EUdTjk6vTYSk0zr7KCqowQ - nsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535 5.7.1 Username and Password not accepted EUdTjk6vTYSk0zr7KCqowQ - nsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535 5.7.1 Username and Password not accepted NrzpmiVASNClH9jx-Ry-ZA - nsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535 5.7.1 Username and Password not accepted NrzpmiVASNClH9jx-Ry-ZA - nsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84164b0963asm4549005b3a.25 - gsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84164b0963asm4549005b3a.25 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-36a674c3a4esm2787937a91.0 - gsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-36a674c3a4esm2787937a91.0 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-36a71dc0f5csm4781962a91.7 - gsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '534-5.7.9 Application-specific password required. For more information, go to\n' +
+    '534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-36a71dc0f5csm4781962a91.7 - gsmtp',
+  responseCode: 534,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535 5.7.1 Username and Password not accepted i1hUf86RR0e8571KNuLrHQ - nsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535 5.7.1 Username and Password not accepted i1hUf86RR0e8571KNuLrHQ - nsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535 5.7.1 Username and Password not accepted OJWcJ97AQ1Sj+4T+tCDndg - nsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535 5.7.1 Username and Password not accepted OJWcJ97AQ1Sj+4T+tCDndg - nsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+임시 비밀번호 메일 전송 실패: Error: Invalid login: 535 5.7.1 Username and Password not accepted 9tsDj8DtT9iaVDJeoi46wg - nsmtp
+    at SMTPConnection._formatError (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionAUTHComplete (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:1588:34)
+    at SMTPConnection.<anonymous> (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:556:26)
+    at SMTPConnection._processResponse (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\dev_source\Mini Project\Backend\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535 5.7.1 Username and Password not accepted 9tsDj8DtT9iaVDJeoi46wg - nsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}

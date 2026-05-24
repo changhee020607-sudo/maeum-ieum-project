@@ -1,0 +1,16 @@
+.navbar {
+  height: 120px !important;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  border-bottom: 3px solid #FF8C00;
+}
+
+.main-symbol-logo {
+  height: 110px !important;
+  width: auto;
+  margin-left: 20px;
+  filter: drop-shadow(0px 4px 8px rgba(255, 140, 0, 0.4));
+  padding: 0 !important;
+  box-sizing: border-box;
+}
